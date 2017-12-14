@@ -1,3 +1,3 @@
 # POCO-Generator
 
-<img src="https://drive.google.com/file/d/1K0Dyo2htUOp7JGUbpr4WUc4SvWpNDtkr/view?usp=sharing" />
+<img src="https://s3.amazonaws.com/codegenerator/3c75c4da782c0fba2108779781e05c70047b697b.jpg" />
