@@ -1,4 +1,4 @@
-# POCO-Generator
+# POCO Classes Generator
 
 <img src="https://i.imgur.com/9YArrNO.png" />
 
